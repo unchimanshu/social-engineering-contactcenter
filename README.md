@@ -1,6 +1,5 @@
-A simple application to detect fraud in a Contact center scenario. Imagine a fraudster calling a contact center to carry out an Account Takeover (ATO). They try to emotionally manipulate the agent and try to gain access. 
+A lightweight application designed to detect fraud in contact center interactions. In this scenario, a fraudster calls a contact center attempting an Account Takeover (ATO) by emotionally manipulating the agent to gain unauthorized access.
 
-This system will detect emotional manipulation and warn the agent of a probable fraud attempt. When used in conjunction with existing fraud prevention measures, an LLM-based architecture can add a powerful security and compliance layer to the system. 
+The system identifies patterns of emotional manipulation in real time and alerts the agent to a likely fraud attempt. When combined with existing fraud prevention controls, an LLM-based architecture adds a powerful, adaptive layer of security and compliance.
 
-Furthermore, because the contact center is one of the highest-churn industries in the world, human agent training is a significant overhead; such features can obviate the need for such fraud-prevention training for human agents. 
-
+Additionally, given that contact centers experience some of the highest employee churn rates, agent training represents a substantial ongoing cost. By embedding fraud detection directly into the workflow, this approach reduces reliance on extensive fraud-prevention training for human agents.
